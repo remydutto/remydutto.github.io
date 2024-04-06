@@ -63,6 +63,12 @@ skills:
         percent: 80
         icon: matlab
         # icon_pack: fas
+      - name: GitHub
+        description: ''
+        percent: 50
+        icon: github
+        icon_pack: brands
+  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
