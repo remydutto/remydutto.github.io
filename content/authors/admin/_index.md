@@ -53,11 +53,11 @@ education:
 skills:
   - name: Technical
     items:
-      - name: fab
+      - name: Python
         description: ''
         percent: 80
         icon: python
-        icon_pack: devicon
+        icon_pack: fab
       - name: Matlab
         description: ''
         percent: 80
