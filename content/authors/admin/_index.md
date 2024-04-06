@@ -29,7 +29,7 @@ organizations:
     url: https://www.math.univ-toulouse.fr/fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optimal control, artificial intelligence and numerical metods.
+bio: My research interests include optimal control, artificial intelligence and numerical methods.
 
 # Interests to show in About widget
 interests:
@@ -61,7 +61,7 @@ skills:
       - name: Matlab
         description: ''
         percent: 80
-        # icon: chart-line
+        icon: matlab
         # icon_pack: fas
 
 # Social/Academic Networking
@@ -89,5 +89,5 @@ social:
 highlight_name: true
 ---
 
-I'm a CIFRE PhD student at Vitesco Technologies. My field of interrests are optimal control, artificial inteligence and optimization. The goal of my thesis is to propose new numerical optimal control methods helped with artificial intelligence to solve the torque split and gearshift problem on hybrid electric vehicle. 
+I'm a CIFRE PhD student at Vitesco Technologies. My field of interests are Optimal Control, Artificial Inteligence and Optimization. The aim of my thesis is to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
 {style="text-align: justify;"}
