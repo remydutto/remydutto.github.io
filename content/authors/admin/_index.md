@@ -68,7 +68,18 @@ skills:
         percent: 50
         icon: github
         icon_pack: fab
-  
+  - name: Languages
+    items: 
+      -name: French
+       description: 'native'
+       percent: 100
+       icon: FR
+       icon_pack: custom
+      -name: English
+       description: 'B2-C1'
+       percent: 70
+       icon: EN
+       icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
