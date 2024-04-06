@@ -35,6 +35,7 @@ bio: My research interests include optimal control, artificial intelligence and 
 interests:
   - Optimal control
   - Artificial Intelligence
+  - Optimization 
   - Numerical methods
 
 # Education to show in About widget
@@ -62,11 +63,6 @@ skills:
         percent: 80
         # icon: chart-line
         # icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,7 +77,7 @@ social:
     link: https://cv.hal.science/rdutto
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/remy-dutto-3775851a4
+    link: https://www.linkedin.com/in/remy-dutto-3775851a4/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -93,5 +89,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a CIFRE PhD student at Vitesco Technologies. My field of interrests are optimal control, artificial inteligence and optimization. The goal of my thesis is to propose new numerical optimal control methods helped with artificial intelligence to solve the torque split and gearshift problem on hybrid electric vehicle. 
 {style="text-align: justify;"}
