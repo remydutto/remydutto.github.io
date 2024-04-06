@@ -10,8 +10,12 @@ publishDate: '2024-04-06T16:25:30.432706Z'
 publication_types:
 - manuscript
 tags:
-- Optimal Control ; Bilevel Optimization ; Hybrid Electric Vehicle ; Indirect Shooting
-  ; Value Function ; Neural Network
+- Optimal Control
+- Bilevel Optimization
+- Hybrid Electric Vehicle
+- Indirect Shooting
+- Value Function
+- Neural Network
 links:
 - name: URL
   url: https://hal.science/hal-04359870

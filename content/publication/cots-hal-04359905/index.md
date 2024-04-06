@@ -10,9 +10,14 @@ publishDate: '2024-04-06T16:25:30.441747Z'
 publication_types:
 - manuscript
 tags:
-- Database generation ; Bilevel optimal control ; Pontryagin maximum principle ; Indirect
-  method ; Value function ; Hybrid electric vehicle
+- Database generation
+- Bilevel optimal control
+- Pontryagin maximum principle
+- Indirect method
+- Value function 
+- Hybrid electric vehicle
 links:
 - name: URL
   url: https://hal.science/hal-04359905
+url_pdf: https://hal.science/hal-04359905/file/2023-CDJL-preprint-Databse.pdf
 ---
