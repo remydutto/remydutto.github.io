@@ -15,4 +15,5 @@ tags:
 links:
 - name: URL
   url: https://hal.science/hal-04359870
+url_pdf: https://hal.science/hal-04359870/file/2023-CDJL-preprint-Bilevel.pdf
 ---
