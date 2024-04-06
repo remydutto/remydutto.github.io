@@ -53,21 +53,21 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: fab
         description: ''
         percent: 80
-        icon: devicon/python
+        icon: python
         icon_pack: devicon
       - name: Matlab
         description: ''
         percent: 80
-        icon: devicon/matlab
-        icon_pack: devicon
+        icon: matlab
+        icon_pack: custom
       - name: GitHub
         description: ''
         percent: 50
-        icon: devicon/github
-        icon_pack: devicon
+        icon: github
+        icon_pack: fab
   
 
 # Social/Academic Networking
