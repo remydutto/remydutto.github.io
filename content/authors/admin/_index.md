@@ -57,17 +57,17 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-        # icon_pack: devicon
+        icon_pack: devicon
       - name: Matlab
         description: ''
         percent: 80
         icon: devicon/matlab
-        # icon_pack: devicon
+        icon_pack: devicon
       - name: GitHub
         description: ''
         percent: 50
         icon: devicon/github
-        # icon_pack: devicon
+        icon_pack: devicon
   
 
 # Social/Academic Networking
@@ -77,7 +77,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:remy.dutto@orange.fr'
   - icon: hal # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://cv.hal.science/rdutto
