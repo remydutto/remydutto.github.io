@@ -56,18 +56,18 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python
-        icon_pack: devicon
+        icon: devicon/python
+        # icon_pack: devicon
       - name: Matlab
         description: ''
         percent: 80
-        icon: matlab
-        icon_pack: devicon
+        icon: devicon/matlab
+        # icon_pack: devicon
       - name: GitHub
         description: ''
         percent: 50
-        icon: github
-        icon_pack: devicon
+        icon: devicon/github
+        # icon_pack: devicon
   
 
 # Social/Academic Networking
