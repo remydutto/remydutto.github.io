@@ -70,13 +70,13 @@ skills:
         icon_pack: fab
   - name: Languages
     items: 
-      - name: French
-        description: 'native'
+      - name: French (native)
+        description: ''
         percent: 100
         icon: FR
         icon_pack: custom
-      - name: English
-        description: 'B2-C1'
+      - name: English (B2-C1)
+        description: ''
         percent: 70
         icon: EN
         icon_pack: custom
