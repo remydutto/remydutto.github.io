@@ -1,16 +1,17 @@
 ---
-title: Example Talk
+title: Geometric preconditioner for indirect method and
+application
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: SMAI MODE 2024
+event_url: https://indico.math.cnrs.fr/event/9418/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Lyon 
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
