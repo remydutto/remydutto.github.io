@@ -1,6 +1,5 @@
 ---
-title: Geometric preconditioner for indirect method and
-application
+title: Geometric preconditioner for indirect method and application
 
 event: SMAI MODE 2024
 event_url: https://indico.math.cnrs.fr/event/9418/
