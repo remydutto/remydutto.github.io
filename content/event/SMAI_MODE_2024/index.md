@@ -35,7 +35,7 @@ tags:
 - Geometric preconditioner
 - Costate interpretation
 - Mathieu transformation
-- Hybrid Electric Vehicle
+- Hybrid electric vehicle
 
 # Is this a featured talk? (true/false)
 featured: false
