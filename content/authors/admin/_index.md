@@ -72,7 +72,7 @@ skills:
     items: 
       - name: French (native)
         description: ''
-        percent: 100
+        percent: 90
         icon: FR
         icon_pack: custom
       - name: English (B2-C1)
