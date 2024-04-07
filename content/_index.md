@@ -91,6 +91,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
