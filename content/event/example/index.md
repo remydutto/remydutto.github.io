@@ -4,13 +4,7 @@ title: Geometric preconditioner for indirect method and application
 event: SMAI MODE 2024
 event_url: https://indico.math.cnrs.fr/event/9418/
 
-location: Lyon 
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Lyon, France 
 
 summary: SMAI MODE 2024 
 abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale en introduisant un co-vecteur associée à l’état, appelé co-état. En effet, la trajectoire d’état optimale doit être trouvée parmi les projections des trajectoires en état et co-état, appelées extrémales, donnes par le principe du maximum. \
