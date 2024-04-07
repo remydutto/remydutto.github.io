@@ -13,7 +13,6 @@ abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessai
 
 On propose une méthode de préconditionnement de la fonction de tir [1], basée d’une part sur une interprétation géométrique du co-état en lien avec l’ensemble accessible du système augmenté, et d’autre part sur la transformée de Mathieu qui fournit un changement de variables dans l’espace des phases à partir d’un difféomorphisme sur l’ ́etat.
 On applique cette nouvelle méthode sur le problème de répartition de couple d’un véhicule hybride électrique. Le préconditionnement est construit à partir d’une transformation linéaire d’une ellipse en un cercle. On montre numériquement que cette méthode permet de réduire le nombre d’itérations de notre solveur. De plus, dans nos expériences, il est préférable d’utiliser le préconditionnement plutôt que d’avoir une bonne initialisation de la fonction de tir obtenue à partir d’une approximation de la fonction valeur [2].
-{style="text-align: justify;"}'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +39,7 @@ featured: false
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: uploads/Slides_SMAI_MODE_2024
 url_slides: ''
 url_video: ''
 
