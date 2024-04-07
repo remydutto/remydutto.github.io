@@ -13,7 +13,7 @@ tags:
 - Database generation
 - Bilevel optimal control
 - Pontryagin maximum principle
-- Indirect method
+- Indirect shooting
 - Value function 
 - Hybrid electric vehicle
 links:
