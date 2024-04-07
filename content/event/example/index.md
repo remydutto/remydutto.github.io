@@ -23,7 +23,12 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-04-07'
 
-authors: []
+authors: 
+- Olivier Cots
+- Rémy Dutto
+- Sophie Jan
+- Serge Laporte
+
 tags:
 - Optimal control 
 - Indirect shooting
