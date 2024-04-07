@@ -19,7 +19,7 @@ On applique cette nouvelle méthode sur le problème de répartition de couple d
 date: '2024-03-27'
 date_end: '2024-03-29'
 date_format: Jan 2006
-# all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
