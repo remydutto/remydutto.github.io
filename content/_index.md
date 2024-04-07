@@ -211,7 +211,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-  id: publications
+    id: publications
     content:
       title: Publications
       text: |-
