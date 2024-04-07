@@ -36,9 +36,9 @@ authors:
 #   - Academic
 #   - 开源
 
-categories:
-  - Demo
-  - 教程
+# categories:
+#   - Demo
+#   - 教程
 ---
 
 ```python
