@@ -18,7 +18,6 @@ On applique cette nouvelle méthode sur le problème de répartition de couple d
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-03-27'
 date_end: '2024-03-29'
-date_format: Jan 2006
 all_day: true
 
 # Schedule page publish date (NOT talk date).
