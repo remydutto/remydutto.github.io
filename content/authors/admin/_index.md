@@ -33,7 +33,7 @@ bio: My research interests include optimal control, artificial intelligence and 
 
 # Interests to show in About widget
 interests:
-  - Optimal control
+  - Optimal Control
   - Artificial Intelligence
   - Optimization 
   - Numerical methods
