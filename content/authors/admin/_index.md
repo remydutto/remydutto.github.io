@@ -106,5 +106,5 @@ social:
 highlight_name: true
 ---
 
-I'm a CIFRE PhD student at Vitesco Technologies. My field of interests are Optimal Control, Artificial Inteligence and Optimization. The aim of my thesis is to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
+I am a CIFRE PhD student at Vitesco Technologies. My field of interests are Optimal Control, Artificial Inteligence and Optimization. The aim of my thesis is to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
 {style="text-align: justify;"}
