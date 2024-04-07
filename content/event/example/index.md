@@ -14,12 +14,7 @@ address:
 
 summary: SMAI MODE 2024 
 abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale en introduisant un co-vecteur associée à l’état, appelé co-état. En effet, la trajectoire d’état optimale doit être trouvée parmi les projections des trajectoires en état et co-état, appelées extrémales, donnes par le principe du maximum.
-`A partir d’une paire  ́etat et co- ́etat initiale, il est possible, sous certaines hypoth`eses, de con-
-struire l’extr ́emale associ ́ee par int ́egration de la dynamique hamiltonienne. L’objectif de la
-m ́ethode indirecte de tir est donc de rechercher le co- ́etat au temps initial, et m`ene au calcul
-d’un z ́ero de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de
-type Newton. La fonction de tir simple est connue pour ˆetre sensible `a la condition initiale. De
-plus, une bonne initialisation doit ˆetre donn ́ee pour s’assurer que le solveur converge.
+À partir d’une paire état et co-état initiale, il est possible, sous certaines hypothèses, de construire l’extrémale associée par intégration de la dynamique hamiltonienne. L’objectif de la méthode indirecte de tir est donc de rechercher le co-état au temps initial, et mène au calcul d’un zéro de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de type Newton. La fonction de tir simple est connue pour être sensible à la condition initiale. De plus, une bonne initialisation doit être donnée pour s’assurer que le solveur converge.
 On propose une m ́ethode de pr ́econditionnement de la fonction de tir [1], bas ́ee d’une part sur une
 interpr ́etation g ́eom ́etrique du co- ́etat en lien avec l’ensemble accessible du syst`eme augment ́e, et
 d’autre part sur la transform ́ee de Mathieu qui fournit un changement de variables dans l’espace
