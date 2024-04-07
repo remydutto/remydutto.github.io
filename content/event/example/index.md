@@ -12,8 +12,24 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: SMAI MODE 2024 
+abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale en introduisant un co-vecteur associée à l’état, appelé co-état. En effet, la trajectoire d’état optimale doit être trouvée parmi les projections des trajectoires en état et co-état, appelées extrémales, données par le principe du maximum.
+`A partir d’une paire  ́etat et co- ́etat initiale, il est possible, sous certaines hypoth`eses, de con-
+struire l’extr ́emale associ ́ee par int ́egration de la dynamique hamiltonienne. L’objectif de la
+m ́ethode indirecte de tir est donc de rechercher le co- ́etat au temps initial, et m`ene au calcul
+d’un z ́ero de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de
+type Newton. La fonction de tir simple est connue pour ˆetre sensible `a la condition initiale. De
+plus, une bonne initialisation doit ˆetre donn ́ee pour s’assurer que le solveur converge.
+On propose une m ́ethode de pr ́econditionnement de la fonction de tir [1], bas ́ee d’une part sur une
+interpr ́etation g ́eom ́etrique du co- ́etat en lien avec l’ensemble accessible du syst`eme augment ́e, et
+d’autre part sur la transform ́ee de Mathieu qui fournit un changement de variables dans l’espace
+des phases `a partir d’un diff ́eomorphisme sur l’ ́etat.
+On applique cette nouvelle m ́ethode sur le probl`eme de r ́epartition de couple d’un v ́ehicule
+hybride  ́electrique. Le pr ́econditionnement est construit `a partir d’une transformation lin ́eaire
+d’une ellipse en un cercle. On montre num ́eriquement que cette m ́ethode permet de r ́eduire le
+nombre d’it ́erations de notre solveur. De plus, dans nos exp ́eriences, il est pr ́ef ́erable d’utiliser
+le pr ́econditionnement plutˆot que d’avoir une bonne initialisation de la fonction de tir obtenue
+`a partir d’une approximation de la fonction valeur [2].'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
