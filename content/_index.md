@@ -134,6 +134,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: posts
     content:
       title: Recent Posts
@@ -161,6 +162,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: projects
     content:
       title: Projects
@@ -188,6 +190,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Gallery
       subtitle: ''
@@ -197,6 +200,7 @@ sections:
       columns: '1'
   - block: collection
     id: featured
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Featured Publications
       filters:
@@ -208,7 +212,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -223,7 +227,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
@@ -232,10 +236,11 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Main Topics
     design:
       columns: '2'
   - block: contact
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: contact
     content:
       title: Contact
