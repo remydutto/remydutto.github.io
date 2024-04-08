@@ -229,6 +229,7 @@ sections:
     id: talks
     content:
       title: Talks
+      count: 3
       filters:
         folders:
           - event
