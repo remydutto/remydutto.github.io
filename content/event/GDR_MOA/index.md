@@ -13,6 +13,7 @@ abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessai
 
 La méthode proposée pour y remédier est basée sur une formulation à deux niveaux du problème de commande optimale. Nous établissons un lien fort entre cette nouvelle approche et la méthode de tir multiple en utilisant la relation entre les co-états et la fonction valeur de Bellman. Nous profitons de cette formulation bi-niveaux pour introduire des approximations des fonctions valeurs de Bellman par des réseaux de neurones afin d’accélérer le processus de résolution. En effet, cette approximation permet de transformer le problème de commande optimale à deux niveaux en un problème d’optimisation en dimension faible (Macro) et un ensemble de problèmes de commande optimale indépendants sur des intervalles de temps plus courts (Micro). \
 
+\
  
 Cette méthode sera appliquée au problème de répartition de couple d’un véhicule hybride sur le cycle de référence WLTC (Worldwide harmonized Light vehicles Test Cycles). L’objectif est de minimiser la consommation en carburant tout en imposant un état de charge final de batterie fixé. La méthode proposée sera comparée à la méthode de tir simple en terme d’optimalité et de temps de calcul.'
 
