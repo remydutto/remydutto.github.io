@@ -11,7 +11,7 @@ abstract: 'The Pontryagin’s maximum principle gives necessary conditions to op
 
 \
 
-The proposed method to overcome these issues is based on a bi-level decomposition of the studied optimal control problem. A strong link between this new approach and the indirect multiple shooting method is highlighted, by using the link between the Pontryagin co-states and the value functions. We exploit this bi-level formulation to approximate the value functions by neural networks, to speed up the embedded resolution. In fact, this approximation transforms the optimal control problem into a low-dimensional optimization problem, called (M acro), and N independent optimal control problems on smaller time intervals, called (Micro). \
+The proposed method to overcome these issues is based on a bi-level decomposition of the studied optimal control problem. A strong link between this new approach and the indirect multiple shooting method is highlighted, by using the link between the Pontryagin co-states and the value functions. We exploit this bi-level formulation to approximate the value functions by neural networks, to speed up the embedded resolution. In fact, this approximation transforms the optimal control problem into a low-dimensional optimization problem, called (Macro), and N independent optimal control problems on smaller time intervals, called (Micro). \
 
 \
 
@@ -19,8 +19,8 @@ This method is applied to the hybrid electric vehicle torque split and gear shif
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-18'
-date_end: '2023-10-20'
+date: '2023-09-13'
+date_end: '2023-09-15'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -29,8 +29,11 @@ publishDate: '2024-04-08'
 authors: 
 - Olivier Cots
 - Rémy Dutto
+- Olivier Flebus
 - Sophie Jan
 - Serge Laporte
+- Mariano Sans
+
 
 tags:
 - Optimal control
@@ -40,7 +43,7 @@ tags:
 # Is this a featured talk? (true/false)
 featured: false
 url_code: ''
-url_pdf: uploads/2023_GDR_MOA.pdf
+url_pdf: uploads/2023_TES.pdf
 url_slides: ''
 url_video: ''
 ---

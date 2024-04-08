@@ -30,8 +30,10 @@ publishDate: '2024-04-07'
 authors: 
 - Olivier Cots
 - Rémy Dutto
+- Olivier Flebus
 - Sophie Jan
 - Serge Laporte
+- Mariano Sans
 
 tags:
 - Optimal control 
