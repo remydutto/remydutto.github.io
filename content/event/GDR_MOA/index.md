@@ -38,7 +38,7 @@ tags:
 # Is this a featured talk? (true/false)
 featured: false
 url_code: ''
-url_pdf: uploads/Slides_SMAI_MODE_2024.pdf
+url_pdf: uploads/2023_GDR_MOA.pdf
 url_slides: ''
 url_video: ''
 ---
