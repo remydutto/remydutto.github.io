@@ -9,21 +9,11 @@ location: Perpignan, France
 summary: Méthode de contrôle optimal à deux niveaux et son application à la répartition du couple dans un véhicule hybride
 abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale en introduisant un co-vecteur associée à l’état, appelé co-état. En effet, la trajectoire d’état optimale doit être trouvée parmi les projections des trajectoires en état et co-état, appelées extrémales, données par le principe du maximum. \
 
-À partir d’une paire état et co-état initiale, il est possible, sous certaines hypothèses, de construire l’extrémale associée par intégration de la dynamique hamiltonienne. L’objectif de la
-m ́ethode indirecte de tir est donc de rechercher le co- ́etat au temps initial, et m`ene au calcul
-d’un z ́ero de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de
-type Newton. La fonction de tir simple est connue pour ˆetre sensible `a la condition initiale. De
-plus, une bonne initialisation doit ˆetre donn ́ee pour s’assurer que le solveur converge.
-On propose une m ́ethode de pr ́econditionnement de la fonction de tir [1], bas ́ee d’une part sur une
-interpr ́etation g ́eom ́etrique du co- ́etat en lien avec l’ensemble accessible du syst`eme augment ́e, et
-d’autre part sur la transform ́ee de Mathieu qui fournit un changement de variables dans l’espace
-des phases `a partir d’un diff ́eomorphisme sur l’ ́etat.
-On applique cette nouvelle m ́ethode sur le probl`eme de r ́epartition de couple d’un v ́ehicule
-hybride  ́electrique. Le pr ́econditionnement est construit `a partir d’une transformation lin ́eaire
-d’une ellipse en un cercle. On montre num ́eriquement que cette m ́ethode permet de r ́eduire le
-nombre d’it ́erations de notre solveur. De plus, dans nos exp ́eriences, il est pr ́ef ́erable d’utiliser
-le pr ́econditionnement plutˆot que d’avoir une bonne initialisation de la fonction de tir obtenue
-`a partir d’une approximation de la fonction valeur [2].'
+À partir d’une paire état et co-état initiale, il est possible, sous certaines hypothèses, de construire l’extrémale associée par intégration de la dynamique hamiltonienne. L’objectif de la méthode indirecte de tir est donc de rechercher le co-état au temps initial, et mène au calcul d’un zéro de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de type Newton. La fonction de tir simple est connue pour être sensible à la condition initiale. De plus, une bonne initialisation doit être donnée pour s’assurer que le solveur converge. \
+
+On propose une méthode de préconditionnement de la fonction de tir, basée d’une part sur une interprétation géometrique du co-état en lien avec l’ensemble accessible du système augmenté, et d’autre part sur la transformée de Mathieu qui fournit un changement de variables dans l’espace des phases à partir d’un difféomorphisme sur l’état. \
+
+On applique cette nouvelle méthode sur le problème de répartition de couple d’un véhicule hybride électrique. Le préconditionnement est construit à partir d’une transformation linéaire d’une ellipse en un cercle. On montre numériquement que cette méthode permet de réduire le nombre d’itérations de notre solveur. De plus, dans nos expériences, il est préferable d’utiliser le préconditionnement plutôt que d’avoir une bonne initialisation de la fonction de tir obtenue à partir d’une approximation de la fonction valeur.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
