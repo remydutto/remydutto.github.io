@@ -36,9 +36,9 @@ authors:
 - Mariano Sans
 
 tags:
-- Optimal control
 - Bilevel optimal control
 - Neural network
+- Pontryagin maximum principle
 
 # Is this a featured talk? (true/false)
 featured: false
