@@ -39,8 +39,7 @@ tags:
 - Optimal control
 - Bilevel optimal control
 - Neural network
-- Database generation
-- Value function
+- Indirect shooting
 
 # Is this a featured talk? (true/false)
 featured: false
