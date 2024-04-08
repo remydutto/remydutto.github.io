@@ -1,12 +1,12 @@
 ---
-title: Geometric preconditioner for indirect method and application
+title: Journées SMAI MODE 2024
 
-event: SMAI MODE 2024
+event: Journées SMAI MODE 2024
 event_url: https://indico.math.cnrs.fr/event/9418/
 
 location: Lyon, France 
 
-summary: SMAI MODE 2024 
+summary: Geometric preconditioner for indirect method and application 
 abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale en introduisant un co-vecteur associée à l’état, appelé co-état. En effet, la trajectoire d’état optimale doit être trouvée parmi les projections des trajectoires en état et co-état, appelées extrémales, données par le principe du maximum. \
 
 À partir d’une paire état et co-état initiale, il est possible, sous certaines hypothèses, de construire l’extrémale associée par intégration de la dynamique hamiltonienne. L’objectif de la méthode indirecte de tir est donc de rechercher le co-état au temps initial, et mène au calcul d’un zéro de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de type Newton. La fonction de tir simple est connue pour être sensible à la condition initiale. De plus, une bonne initialisation doit être donnée pour s’assurer que le solveur converge. \
