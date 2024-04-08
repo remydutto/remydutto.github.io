@@ -7,7 +7,7 @@ event_url: https://gdrmoa.math.cnrs.fr/journees-annuelles-2023-du-gdr-moa/
 location: Perpignan, France 
 
 summary: Méthode de contrôle optimal à deux niveaux et son application à la répartition du couple dans un véhicule hybride
-abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale en introduisant un co-vecteur associée à l’état, appelé co-état. En effet, la trajectoire d’état optimale doit être trouvée parmi les projections des trajectoires en état et co-état, appelées extrémales, données par le principe du maximum. \
+abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d'optimalité pour des problèmes de commande optimale. Cependant, pour certaines applications industrielles, plus précisément sur des temps longs, la méthode classique de résolution de ces conditions nécessaires (méthode  de tir) peut avoir des problèmes de convergence et/ou être trop coûteuse en temps pour être utilisée dans une solution embarquée. \
 
 À partir d’une paire état et co-état initiale, il est possible, sous certaines hypothèses, de construire l’extrémale associée par intégration de la dynamique hamiltonienne. L’objectif de la méthode indirecte de tir est donc de rechercher le co-état au temps initial, et mène au calcul d’un zéro de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de type Newton. La fonction de tir simple est connue pour être sensible à la condition initiale. De plus, une bonne initialisation doit être donnée pour s’assurer que le solveur converge. \
 
