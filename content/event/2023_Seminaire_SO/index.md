@@ -6,7 +6,7 @@ event_url: https://indico.math.cnrs.fr/category/474/
 
 location: Toulouse, France
 
-summary: Bi-level optimal control method and its application to the hybrid electric vehicle torque split and gear shift problem
+summary: Méthode de contrôle optimal à deux niveaux et application
 abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale. Cependant, pour certaines applications industrielles, plus précisément sur des temps longs, la méthode classique de résolution de ces conditions nécessaires (méthode de tir) peut avoir des problèmes de convergence et/ou être trop coûteuse en temps pour être utilisée dans une solution embarquée. \
 
 \
