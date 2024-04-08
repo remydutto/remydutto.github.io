@@ -1,21 +1,20 @@
 ---
-title: Journées annuelles 2023 du GdR MOA
+title: Thematic Einstein Semester 2023 conference on mathematical optimization for machine learning
 
-event: Journées annuelles 2023 du GdR MOA
-event_url: https://gdrmoa.math.cnrs.fr/journees-annuelles-2023-du-gdr-moa/
+event: Thematic Einstein Semester 2023 conference on mathematical optimization for machine learning
+event_url: https://mathplus.de/topic-development-lab/tes-summer-2023/final-conference/
 
-location: Perpignan, France 
+location: Berlin, Germany
 
-summary: Méthode de contrôle optimal à deux niveaux et son application à la répartition du couple dans un véhicule hybride
-abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale. Cependant, pour certaines applications industrielles, plus précisément sur des temps longs, la méthode classique de résolution de ces conditions nécessaires (méthode de tir) peut avoir des problèmes de convergence et/ou être trop coûteuse en temps pour être utilisée dans une solution embarquée. \
+summary: 'The Pontryagin’s maximum principle gives necessary conditions to optimal control problems. Nevertheless, for some industrial applications, especially when the integration time is long, the classical method used to solve these necessary conditions (indirect simple shooting) may have some numerical convergence issues and/or be too time consuming to be proposed on embedded solutions. \
+
+\
+
+The proposed method to overcome these issues is based on a bi-level decomposition of the studied optimal control problem. A strong link between this new approach and the indirect multiple shooting method is highlighted, by using the link between the Pontryagin co-states and the value functions. We exploit this bi-level formulation to approximate the value functions by neural networks, to speed up the embedded resolution. In fact, this approximation transforms the optimal control problem into a low-dimensional optimization problem, called (M acro), and N independent optimal control problems on smaller time intervals, called (Micro). \
 
 \
 
-La méthode proposée pour y remédier est basée sur une formulation à deux niveaux du problème de commande optimale. Nous établissons un lien fort entre cette nouvelle approche et la méthode de tir multiple en utilisant la relation entre les co-états et la fonction valeur de Bellman. Nous profitons de cette formulation bi-niveaux pour introduire des approximations des fonctions valeurs de Bellman par des réseaux de neurones afin d’accélérer le processus de résolution. En effet, cette approximation permet de transformer le problème de commande optimale à deux niveaux en un problème d’optimisation en dimension faible (Macro) et un ensemble de problèmes de commande optimale indépendants sur des intervalles de temps plus courts (Micro). \
-
-\
- 
-Cette méthode sera appliquée au problème de répartition de couple d’un véhicule hybride sur le cycle de référence WLTC (Worldwide harmonized Light vehicles Test Cycles). L’objectif est de minimiser la consommation en carburant tout en imposant un état de charge final de batterie fixé. La méthode proposée sera comparée à la méthode de tir simple en terme d’optimalité et de temps de calcul.'
+This method is applied to the hybrid electric vehicle torque split and gear shift problem, on the Worldwide harmonized Light vehicle Test Cycle. The goal is to minimize the fuel consumption with a fixed initial and final state of charge of the battery. The proposed method is compared to the indirect simple shooting in terms of cost and computing time.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
