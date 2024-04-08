@@ -39,6 +39,8 @@ tags:
 - Optimal control
 - Bilevel optimal control
 - Neural network
+- Database generation
+- Value function
 
 # Is this a featured talk? (true/false)
 featured: false
