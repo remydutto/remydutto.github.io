@@ -82,7 +82,7 @@ sections:
       count: 3
       filters:
         folders:
-          - talk
+          - event
     design:
       columns: '2'
       view: compact
