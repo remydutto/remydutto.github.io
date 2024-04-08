@@ -1,12 +1,12 @@
 ---
-title: Geometric preconditioner for indirect method and application
+title: Journées annuelles 2023 du GdR MOA
 
 event: Journées annuelles 2023 du GdR MOA
-event_url: https://indico.math.cnrs.fr/event/9418/
+event_url: https://gdrmoa.math.cnrs.fr/journees-annuelles-2023-du-gdr-moa/
 
-location: Lyon, France 
+location: Perpignan, France 
 
-summary: V2
+summary: Geometric preconditioner for indirect method and application
 abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d’optimalité pour des problèmes de commande optimale en introduisant un co-vecteur associée à l’état, appelé co-état. En effet, la trajectoire d’état optimale doit être trouvée parmi les projections des trajectoires en état et co-état, appelées extrémales, données par le principe du maximum. \
 
 À partir d’une paire état et co-état initiale, il est possible, sous certaines hypothèses, de construire l’extrémale associée par intégration de la dynamique hamiltonienne. L’objectif de la méthode indirecte de tir est donc de rechercher le co-état au temps initial, et mène au calcul d’un zéro de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de type Newton. La fonction de tir simple est connue pour être sensible à la condition initiale. De plus, une bonne initialisation doit être donnée pour s’assurer que le solveur converge. \
@@ -16,12 +16,12 @@ On applique cette nouvelle méthode sur le problème de répartition de couple d
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-27'
-date_end: '2024-03-29'
+date: '2023-10-18'
+date_end: '2023-10-20'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-04-07'
+publishDate: '2024-04-08'
 
 authors: 
 - Olivier Cots
