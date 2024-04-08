@@ -7,13 +7,25 @@ event_url: https://gdrmoa.math.cnrs.fr/journees-annuelles-2023-du-gdr-moa/
 location: Perpignan, France 
 
 summary: Méthode de contrôle optimal à deux niveaux et son application à la répartition du couple dans un véhicule hybride
-abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessaires d'optimalité pour des problèmes de commande optimale. Cependant, pour certaines applications industrielles, plus précisément sur des temps longs, la méthode classique de résolution de ces conditions nécessaires (méthode  de tir) peut avoir des problèmes de convergence et/ou être trop coûteuse en temps pour être utilisée dans une solution embarquée. \
-
-À partir d’une paire état et co-état initiale, il est possible, sous certaines hypothèses, de construire l’extrémale associée par intégration de la dynamique hamiltonienne. L’objectif de la méthode indirecte de tir est donc de rechercher le co-état au temps initial, et mène au calcul d’un zéro de la fonction de tir simple, ce qui est habituellement fait en utilisant un solveur de type Newton. La fonction de tir simple est connue pour être sensible à la condition initiale. De plus, une bonne initialisation doit être donnée pour s’assurer que le solveur converge. \
-
-On propose une méthode de préconditionnement de la fonction de tir, basée d’une part sur une interprétation géometrique du co-état en lien avec l’ensemble accessible du système augmenté, et d’autre part sur la transformée de Mathieu qui fournit un changement de variables dans l’espace des phases à partir d’un difféomorphisme sur l’état. \
-
-On applique cette nouvelle méthode sur le problème de répartition de couple d’un véhicule hybride électrique. Le préconditionnement est construit à partir d’une transformation linéaire d’une ellipse en un cercle. On montre numériquement que cette méthode permet de réduire le nombre d’itérations de notre solveur. De plus, dans nos expériences, il est préferable d’utiliser le préconditionnement plutôt que d’avoir une bonne initialisation de la fonction de tir obtenue à partir d’une approximation de la fonction valeur.'
+abstract: 'Le principe du maximum de Pontryagin fournit des conditions n ́ecessaires d’optimalit ́e
+pour des probl`emes de commande optimale. Cependant, pour certaines applications indus-
+trielles, plus pr ́ecis ́ement sur des temps longs, la m ́ethode classique de r ́esolution de ces condi-
+tions n ́ecessaires (m ́ethode de tir) peut avoir des probl`emes de convergence [2] et/ou ˆetre trop
+coˆuteuse en temps pour ˆetre utilis ́ee dans une solution embarqu ́ee.
+La m ́ethode propos ́ee pour y rem ́edier est bas ́ee sur une formulation `a deux niveaux du probl`eme
+de commande optimale. Nous  ́etablissons un lien fort entre cette nouvelle approche et la m ́ethode
+de tir multiple en utilisant la relation entre les co- ́etats et la fonction valeur de Bellman [1].
+Nous profitons de cette formulation bi-niveaux pour introduire des approximations des fonc-
+tions valeurs de Bellman par des r ́eseaux de neurones afin d’acc ́el ́erer le processus de r ́esolution.
+En effet, cette approximation permet de transformer le probl`eme de commande optimale `a
+deux niveaux en un probl`eme d’optimisation en dimension faible (M acro) et un ensemble
+de probl`emes de commande optimale ind ́ependants sur des intervalles de temps plus courts
+(M icro).
+Cette m ́ethode sera appliqu ́ee au probl`eme de r ́epartition de couple d’un v ́ehicule hybride sur le
+cycle de r ́ef ́erence WLTC (Worldwide harmonized Light vehicles Test Cycles). L’objectif est de
+minimiser la consommation en carburant tout en imposant un  ́etat de charge final de batterie
+fix ́e. La m ́ethode propos ́ee sera compar ́ee `a la m ́ethode de tir simple en terme d’optimalit ́e et
+de temps de calcul.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
