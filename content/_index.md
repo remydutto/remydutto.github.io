@@ -232,7 +232,7 @@ sections:
       count: 3
       filters:
         folders:
-          - event
+          - talk
     design:
       columns: '2'
       view: compact
