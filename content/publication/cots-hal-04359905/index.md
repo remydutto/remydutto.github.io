@@ -19,5 +19,5 @@ tags:
 links:
 - name: URL
   url: https://hal.science/hal-04359905
-url_pdf: https://hal.science/hal-04359905/file/2023-CDJL-preprint-Databse.pdf
+url_pdf: https://hal.science/hal-04359905v2/file/CDJL_TES_V2.pdf
 ---

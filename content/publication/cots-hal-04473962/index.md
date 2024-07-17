@@ -19,5 +19,5 @@ tags:
 links:
 - name: URL
   url: https://hal.science/hal-04473962
-url_pdf: https://hal.science/hal-04473962/file/2024-CDJL-preprint-preconditioner.pdf
+url_pdf: https://hal.science/hal-04473962v2/file/CDJL_IFAC_V2.pdf
 ---
