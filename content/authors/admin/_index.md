@@ -23,9 +23,11 @@ role: PhD student at Vitesco Technologies
 organizations:
   - name: Vitesco Technologies 
     url: https://www.vitesco-technologies.com/fr-fr
-  - name: Institut de Recherche en Informatique de Toulouse 
+  - name: Artificial and Natural Intelligence Toulouse Institute (ANITI)
+    url: https://aniti.univ-toulouse.fr/
+  - name: Institut de Recherche en Informatique de Toulouse (IRIT)
     url: https://www.irit.fr/
-  - name: Institut de Mathématiques de Toulouse 
+  - name: Institut de Mathématiques de Toulouse (IMT)
     url: https://www.math.univ-toulouse.fr/fr/
 
 # Short bio (displayed in user profile at end of posts)
