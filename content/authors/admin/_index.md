@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student at Vitesco Technologies 
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
