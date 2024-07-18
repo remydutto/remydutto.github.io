@@ -43,10 +43,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Engineering degree in Applied Mathematics
+    - course: Engineer's degree in Applied Mathematics
       institution: Polytech Nice Sophia
       year: 2021
-    - course: Degree in Management and Buisness Administration 
+    - course: Master's degree in Management and Buisness Administration 
       institution: IAE Nice Graduate School of Management
       year: 2021
 
