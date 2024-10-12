@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rémy Dutto # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://remydutto.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
