@@ -37,7 +37,7 @@ sections:
           company_logo: VT_logo
           location: Toulouse, France
           date_start: '2021-10-10'
-          date_end: '2024_10-10'
+          date_end: '2024-10-10'
           description: |2-
               Realted topics:
 
