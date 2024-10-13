@@ -31,13 +31,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD student
+        - title: CIFRE PhD student
           company: Vitesco Technologies
           company_url: https://www.vitesco-technologies.com/fr-fr
           company_logo: VT_logo
           location: Toulouse, France
           date_start: '2021-10-10'
-          date_end: ''
+          date_end: '2024_10-10'
           description: |2-
               Realted topics:
 

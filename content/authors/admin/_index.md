@@ -17,18 +17,18 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Vitesco Technologies 
-    url: https://www.vitesco-technologies.com/fr-fr
-  - name: Artificial and Natural Intelligence Toulouse Institute (ANITI)
-    url: https://aniti.univ-toulouse.fr/
-  - name: Institut de Recherche en Informatique de Toulouse (IRIT)
-    url: https://www.irit.fr/
-  - name: Institut de Mathématiques de Toulouse (IMT)
-    url: https://www.math.univ-toulouse.fr/fr/
+# organizations:
+#   - name: Vitesco Technologies 
+#     url: https://www.vitesco-technologies.com/fr-fr
+#   - name: Artificial and Natural Intelligence Toulouse Institute (ANITI)
+#     url: https://aniti.univ-toulouse.fr/
+#   - name: Institut de Recherche en Informatique de Toulouse (IRIT)
+#     url: https://www.irit.fr/
+#   - name: Institut de Mathématiques de Toulouse (IMT)
+#    url: https://www.math.univ-toulouse.fr/fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optimal control, artificial intelligence and numerical methods.
@@ -43,6 +43,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Applied Mathematics
+      institution: Institut National Polytechnique de Toulouse
+      year: 2024
     - course: Engineer's degree in Applied Mathematics
       institution: Polytech Nice Sophia
       year: 2021
@@ -67,7 +70,7 @@ skills:
         icon_pack: custom
       - name: GitHub
         description: ''
-        percent: 50
+        percent: 60
         icon: github
         icon_pack: fab
   - name: Languages
@@ -108,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a CIFRE PhD student at Vitesco Technologies. My field of interests are Optimal Control, Artificial Inteligence and Optimization. The aim of my thesis is to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
+My field of interests are Optimal Control, Artificial Inteligence and Optimization. The aim of my thesis was to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
 {style="text-align: justify;"}

@@ -1,5 +1,5 @@
 ---
-title: Generation of value function data for bilevel optimal control method
+title: Generation of value function data for bilevel optimal control and application to hybrid electric vehicle
 authors:
 - Olivier Cots
 - Rémy Dutto
