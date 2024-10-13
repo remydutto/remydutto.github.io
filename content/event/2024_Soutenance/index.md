@@ -19,7 +19,7 @@ La seconde est une méthode de préconditionnement géométrique qui permet une 
 
 \
 
-Ces deux méthodes, bien que présentées séparément, peuvent être combinés et mènent à une résolution plus rapide, robuste et légère du problème de répartition de couple, permettant ainsi que de s’approcher des critères d’embarquabilités.'
+Ces deux méthodes, bien que présentées séparément, peuvent être combinées et mènent à une résolution plus rapide, robuste et légère du problème de répartition de couple, permettant ainsi que de s’approcher des critères d’embarquabilités.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
