@@ -2,7 +2,7 @@
 title: Soutenance de thèse
 
 event: Soutenance de thèse
-event_url: https://indico.math.cnrs.fr/event/9418/
+# event_url: https://indico.math.cnrs.fr/event/9418/
 
 location: Toulouse, France 
 
