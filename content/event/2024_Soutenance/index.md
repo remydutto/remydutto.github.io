@@ -6,7 +6,7 @@ event_url: https://indico.math.cnrs.fr/event/9418/
 
 location: Toulouse, France 
 
-summary: Préconditionnement géométrique de la méthode indirecte de tir appliquée au véhicule hybride 
+summary: Méthode à deux niveaux et préconditionnement géométrique en contrôle optimal. Application au problème de répartition de couple des véhicules hybrides électriques
 abstract: 'Motivé par le problème industriel de répartition de couple dans les véhicules hybrides électriques, ce travail propose principalement deux nouvelles méthodes de résolution indirectes de problèmes de commande optimale. \
 
 \
