@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-My field of interests are Optimal Control, Artificial Inteligence and Optimization. The aim of my thesis was to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
+My fields of interests are optimal control, artificial intelligence and optimization. The aim of my thesis was to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
 {style="text-align: justify;"}
