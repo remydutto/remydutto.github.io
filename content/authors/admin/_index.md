@@ -43,13 +43,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Applied Mathematics
-      institution: Institut National Polytechnique de Toulouse
+    - course: PhD in applied mathematics
+      institution: Institut National Polytechnique of Toulouse
       year: 2024
-    - course: Engineer's degree in Applied Mathematics
+    - course: Engineer's degree in applied mathematics and modelization
       institution: Polytech Nice Sophia
       year: 2021
-    - course: Master's degree in Management and Buisness Administration 
+    - course: Master's degree in management and buisness administration 
       institution: IAE Nice Graduate School of Management
       year: 2021
 
