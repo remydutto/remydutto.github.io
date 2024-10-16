@@ -43,6 +43,7 @@ sections:
 
               * Optimal Control
               * Neural Network
+              * Optimization
               * Numerical methods
         - title: Apprenticeship
           company: Thales Alenia Space 
