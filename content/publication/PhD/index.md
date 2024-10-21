@@ -13,7 +13,5 @@ tags:
 - Pontryagin maximum principle
 - Neural Network
 - Hybrid electric vehicle
-links:
-- name: URL
-    url_pdf: uploads/2024_PhD.pdf
+url_pdf: uploads/2024_PhD.pdf
 ---
