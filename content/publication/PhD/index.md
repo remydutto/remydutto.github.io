@@ -13,7 +13,7 @@ tags:
 - Pontryagin maximum principle
 - Neural Network
 - Hybrid electric vehicle
-summary:  Motivé par le problème industriel de répartion de couple dans les véhicules hybrides électriques, ce travail propose principalement deux nouveles méthodes de résoluon indirectes de problèmes de commande opmale. 
+summary: 'Motivé par le problème industriel de répartion de couple dans les véhicules hybrides électriques, ce travail propose principalement deux nouveles méthodes de résoluon indirectes de problèmes de commande opmale. 
 
 \
 
@@ -25,7 +25,7 @@ La seconde est une méthode de préconditionnement géométrique qui permet une 
 
 \
 
-Ces deux méthodes, bien que présentées séparément, peuvent être combinées et mènent à une résoluon plus rapide, robuste et légère du problème de répartion de couple, permettant ainsi que de s’approcher des critères d’embarquabilités.
+Ces deux méthodes, bien que présentées séparément, peuvent être combinées et mènent à une résoluon plus rapide, robuste et légère du problème de répartion de couple, permettant ainsi que de s’approcher des critères d’embarquabilités.'
 
 url_pdf: uploads/2024_PhD.pdf
 ---
