@@ -5,7 +5,7 @@ authors:
 date: '2024-10-07'
 publishDate: '2024-10-07'
 publication_types:
-- manuscript
+- PhD
 tags:
 - Bilevel optimal control
 - Geometric preconditioner
