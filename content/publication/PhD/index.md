@@ -7,7 +7,7 @@ date: '2024-10-07'
 publishDate: '2024-10-07'
 publication_types:
 - PhD
-# publication ""
+# publication: ""
 # publication_short: ""
 
 abstract: 'Motivé par le problème industriel de répartion de couple dans les véhicules hybrides électriques, ce travail propose principalement deux nouveles méthodes de résoluon indirectes de problèmes de commande opmale. 
