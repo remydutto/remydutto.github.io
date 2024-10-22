@@ -3,17 +3,14 @@ title:  Méthode à deux niveaux et préconditionnement géométrique en contrô
 authors:
 - Rémy Dutto
 date: '2024-10-07'
+# doi : ""
 publishDate: '2024-10-07'
 publication_types:
 - PhD
-tags:
-- Bilevel optimal control
-- Geometric preconditioner
-- Indirect shooting
-- Pontryagin maximum principle
-- Neural Network
-- Hybrid electric vehicle
-summary: 'Motivé par le problème industriel de répartion de couple dans les véhicules hybrides électriques, ce travail propose principalement deux nouveles méthodes de résoluon indirectes de problèmes de commande opmale. 
+# publication ""
+# publication_short: ""
+
+abstract: 'Motivé par le problème industriel de répartion de couple dans les véhicules hybrides électriques, ce travail propose principalement deux nouveles méthodes de résoluon indirectes de problèmes de commande opmale. 
 
 \
 
@@ -26,6 +23,14 @@ La seconde est une méthode de préconditionnement géométrique qui permet une 
 \
 
 Ces deux méthodes, bien que présentées séparément, peuvent être combinées et mènent à une résoluon plus rapide, robuste et légère du problème de répartion de couple, permettant ainsi que de s’approcher des critères d’embarquabilités.'
+
+tags:
+- Bilevel optimal control
+- Geometric preconditioner
+- Indirect shooting
+- Pontryagin maximum principle
+- Neural Network
+- Hybrid electric vehicle
 
 url_pdf: uploads/2024_PhD.pdf
 ---
