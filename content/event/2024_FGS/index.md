@@ -7,15 +7,15 @@ event_url: https://www.unioviedo.es/fgs2024/
 location: Gijon, Spain
 
 summary: Geometric preconditioner for indirect shooting and application to hybrid vehicle
-abstract: 'We are interested in the hybrid electric vehicle torque split and gear shift problem, which can be formulated as a classical Lagrange optimal control problem with fixed initial condition. The Pontryagin’s maximum principle gives necessary optimality conditions adjoining to the state a covector called costate. Thus, the optimal state trajectory has to be found among the projections of the lifted trajectories, called Pontryagin extremals, given by the maximum principle. The indirect simple shooting method aims to compute Pontryagin extremals reducing the resolution to the research of the initial costate. 
+abstract: 'We are interested in the hybrid electric vehicle torque split and gear shift problem, which can be formulated as a classical Lagrange optimal control problem with fixed initial condition. The Pontryagin’s maximum principle gives necessary optimality conditions adjoining to the state a covector called costate. Thus, the optimal state trajectory has to be found among the projections of the lifted trajectories, called Pontryagin extremals, given by the maximum principle. The indirect simple shooting method aims to compute Pontryagin extremals reducing the resolution to the research of the initial costate. \
 
 \
 
-Classically, a Newton-like solver is used to compute zeros of the so-called shooting equations. The main drawback of this method is its sensitivity to the initial guess. Therefore, a good initial guess need to be given to make the Newton solver converge, which is not an easy task in practice. 
+Classically, a Newton-like solver is used to compute zeros of the so-called shooting equations. The main drawback of this method is its sensitivity to the initial guess. Therefore, a good initial guess need to be given to make the Newton solver converge, which is not an easy task in practice. \
 
 \
 
-We propose a preconditioning method of the shooting function based on two main results. The first one is a geometrical interpretation of the costate that connects the final costate of the augmented system to the normal cone of the reachable set of the augmented system. The second result is well known as the Mathieu transformation, which gives the lifted canonical diffeomorphism on state-costate space from a diffeomorphism on the state space, and is related to the underlying symplectic structure. 
+We propose a preconditioning method of the shooting function based on two main results. The first one is a geometrical interpretation of the costate that connects the final costate of the augmented system to the normal cone of the reachable set of the augmented system. The second result is well known as the Mathieu transformation, which gives the lifted canonical diffeomorphism on state-costate space from a diffeomorphism on the state space, and is related to the underlying symplectic structure. \
 
 \
 
