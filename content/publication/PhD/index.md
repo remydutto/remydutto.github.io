@@ -7,8 +7,8 @@ author_notes:
 date: '2024-10-07'
 # doi : ""
 publishDate: '2024-10-07'
-publication_types:
-- PhD
+publication_types: ["thesis"]
+# all publication_types : https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types 
 # publication: ""
 # publication_short: ""
 
