@@ -11,7 +11,7 @@ abstract: 'Le principe du maximum de Pontryagin fournit des conditions nécessai
 
 \
 
-La méthode proposée pour y remédier est bas ée sur une formulation à deux niveaux du problème de commande optimale. Nous établissons un lien fort entre cette nouvelle approche et la méthode de tir multiple en utilisant la relation entre les co-états et la fonction valeur de Bellman. Nous profitons de cette formulation bi-niveaux pour introduire des approximations des fonctions valeurs de Bellman par des réseaux de neurones afin d’accélérer le processus de résolution. En effet, cette approximation permet de transformer le problème de commande optimale à deux niveaux en un problème d’optimisation en dimension faible (Macro) et un ensemble de problèmes de commande optimale indépendants
+La méthode proposée pour y remédier est basée sur une formulation à deux niveaux du problème de commande optimale. Nous établissons un lien fort entre cette nouvelle approche et la méthode de tir multiple en utilisant la relation entre les co-états et la fonction valeur de Bellman. Nous profitons de cette formulation bi-niveaux pour introduire des approximations des fonctions valeurs de Bellman par des réseaux de neurones afin d’accélérer le processus de résolution. En effet, cette approximation permet de transformer le problème de commande optimale à deux niveaux en un problème d’optimisation en dimension faible (Macro) et un ensemble de problèmes de commande optimale indépendants
 sur des intervalles de temps plus courts (Micro). \
 
 \

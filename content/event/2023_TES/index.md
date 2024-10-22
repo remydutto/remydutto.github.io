@@ -7,7 +7,7 @@ event_url: https://mathplus.de/topic-development-lab/tes-summer-2023/final-confe
 location: Berlin, Germany
 
 summary: Bi-level optimal control method and its application to the hybrid electric vehicle torque split and gear shift problem
-abstract: 'The Pontryagin’s maximum principle gives necessary conditions to optimal control problems. Nevertheless, for some industrial applications, especially when the integration time is long, the classical method used to solve these necessary conditions (indirect simple shooting) may have some numerical convergence issues and/or be too time consuming to be proposed on embedded solutions. \
+abstract: 'The Pontryagin’s maximum principle gives necessary conditions to optimal control problems. Nevertheless, for some industrial applications, especially when the integration time is long, the classical method used to solve these necessary conditions (indirect simple shooting) may have some numerical convergence issues and/or be too time-consuming to be proposed on embedded solutions. \
 
 \
 
