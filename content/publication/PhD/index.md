@@ -2,6 +2,8 @@
 title:  Méthode à deux niveaux et préconditionnement géométrique en contrôle optimal. Application au problème de répartition de couple des véhicules hybrides électriques.
 authors:
 - Rémy Dutto
+author_notes: 
+- Vitesco Technologies, IRIT, IMT
 date: '2024-10-07'
 # doi : ""
 publishDate: '2024-10-07'
