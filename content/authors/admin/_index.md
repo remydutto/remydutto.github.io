@@ -57,13 +57,9 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python
-        icon_pack: devicon
       - name: Matlab
         description: ''
         percent: 80
-        icon: matlab
-        icon_pack: devicon
       - name: Julia
         description: ''
         percent: 70
@@ -72,8 +68,6 @@ skills:
       - name: GitHub
         description: ''
         percent: 60
-        icon: github
-        icon_pack: devicon
   - name: Languages
     items: 
       - name: French (native)
