@@ -79,13 +79,9 @@ skills:
       - name: French (native)
         description: ''
         percent: 90
-        icon: FR
-        icon_pack: custom
       - name: English (B2-C1)
         description: ''
         percent: 70
-        icon: EN
-        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
