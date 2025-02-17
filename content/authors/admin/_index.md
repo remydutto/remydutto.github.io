@@ -17,18 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD
+role: Recherche Engineer 
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-#   - name: Vitesco Technologies 
-#     url: https://www.vitesco-technologies.com/fr-fr
-#   - name: Artificial and Natural Intelligence Toulouse Institute (ANITI)
-#     url: https://aniti.univ-toulouse.fr/
-#   - name: Institut de Recherche en Informatique de Toulouse (IRIT)
-#     url: https://www.irit.fr/
-#   - name: Institut de Mathématiques de Toulouse (IMT)
-#    url: https://www.math.univ-toulouse.fr/fr/
+organizations:
+  - name: INRAE Occitanie-Montpellier
+    url: https://www.inrae.fr/
+  - name: WOc-WoD project 
+    url: https://woc.edu.umontpellier.fr/organisation-des-projets-defi-cle-water-occitanie/projets-structurants-defi-cle-water-occitanie/woc-wod/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optimal control, artificial intelligence and numerical methods.
@@ -62,17 +58,22 @@ skills:
         description: ''
         percent: 80
         icon: python
-        icon_pack: fab
+        icon_pack: devicon
       - name: Matlab
         description: ''
         percent: 80
         icon: matlab
-        icon_pack: custom
+        icon_pack: devicon
+      - name: Julia
+        description: ''
+        percent: 70
+        icon: Julia
+        icon_pack: devicon
       - name: GitHub
         description: ''
         percent: 60
         icon: github
-        icon_pack: fab
+        icon_pack: devicon
   - name: Languages
     items: 
       - name: French (native)
@@ -110,6 +111,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+I am currently a research engineer at the INRAE Occitanie-Montpellier, working on the WOc-WoD project with Jérôme Harmand and Alain Rapapport. The main objective is to develop optimal control laws for membrane filtration systems. 
 My fields of interests are optimal control, artificial intelligence and optimization. The aim of my thesis was to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem on a hybrid electric vehicle. 
 {style="text-align: justify;"}
