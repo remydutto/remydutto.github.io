@@ -31,6 +31,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title : Research Engineer
+          company : IRAE Occitanie-Montpellier
+          company_url: https://www.inrae.fr/centres/occitanie-montpellier
+          company_logo: INRAE
+          location: Montpellier, France
+          date_start: 2025-02-01
+          description: |2-
+              Related topics: 
+
+              * Optimal Control
+              * Membrane filtration system
+              * Code development (Julia)
         - title: CIFRE PhD student
           company: Vitesco Technologies
           company_url: https://www.vitesco-technologies.com/fr-fr
