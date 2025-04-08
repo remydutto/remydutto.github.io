@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Recherche Engineer 
+role: Research Engineer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
