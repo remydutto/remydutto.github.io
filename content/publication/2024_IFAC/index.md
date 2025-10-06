@@ -26,6 +26,6 @@ tags:
 - Hybrid electric vehicle
 links:
 - name: URL
-  url: https://hal.science/hal-04473962
+  url: https://www.sciencedirect.com/science/article/pii/S2405896324018950
 url_pdf: https://hal.science/hal-04473962v2/file/CDJL_IFAC_V2.pdf
 ---

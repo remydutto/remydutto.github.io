@@ -10,7 +10,7 @@ author_notes:
 - Vitesco Technologies, IRIT, IMT
 - IMT
 - IMT
-date: '2023-01-01'
+date: '2025-01-01'
 publishDate: '2024-04-06T16:25:30.441747Z'
 publication_types: ['paper-conference']
 # all publication_types : https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types 
@@ -26,6 +26,6 @@ tags:
 - Hybrid electric vehicle
 links:
 - name: URL
-  url: https://hal.science/hal-04359905
+  url: https://doi.org/10.1515/9783111376776-002
 url_pdf: https://hal.science/hal-04359905v2/file/CDJL_TES_V2.pdf
 ---

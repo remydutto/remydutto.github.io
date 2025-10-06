@@ -10,7 +10,7 @@ author_notes:
 - Vitesco Technologies, IRIT, IMT
 - IMT
 - IMT
-date: '2023-01-01'
+date: '2025-01-01'
 publishDate: '2024-04-06T16:25:30.432706Z'
 publication_types: ["article-journal"]
 # all publication_types : https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types 
@@ -26,6 +26,6 @@ tags:
 - Neural network
 links:
 - name: URL
-  url: https://hal.science/hal-04359870
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3247
 url_pdf: https://hal.science/hal-04359870v2/file/CDJL_OCAM_V2.pdf
 ---
