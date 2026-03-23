@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer 
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -101,6 +101,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a research engineer at the INRAE Occitanie-Montpellier, working on the WOc-WoD project with Jérôme Harmand and Alain Rapaport. The main objective is to develop optimal control laws for membrane filtration systems. 
+I am currently a postdoc at the INRAE Occitanie-Montpellier, working on the WOc-WoD project with Jérôme Harmand and Alain Rapaport. The main objective is to develop optimal control laws for membrane filtration systems. 
 My fields of interests are optimal control, artificial intelligence and optimization. The aim of my thesis was to propose new numerical optimal control methods supported by artificial intelligence to solve the torque split and gear shift problem of hybrid electric vehicles. 
 {style="text-align: justify;"}
