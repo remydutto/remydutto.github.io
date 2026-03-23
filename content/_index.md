@@ -41,6 +41,7 @@ sections:
               Related topics: 
 
               * Optimal Control
+              * Feedback synthesis
               * Membrane filtration system
               * Code development (Julia)
         - title: CIFRE PhD student
