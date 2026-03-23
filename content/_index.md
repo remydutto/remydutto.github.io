@@ -31,7 +31,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title : Research Engineer
+        - title : Postdoc
           company : IRAE Occitanie-Montpellier
           company_url: https://www.inrae.fr/centres/occitanie-montpellier
           company_logo: INRAE
