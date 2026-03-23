@@ -8,11 +8,11 @@ location: Nice, France
 
 summary: Optimal synthesis of membrane filtration systems
 
-abstract: 'Les systèmes de filtration membranaire sont largement utilisés dans l’industrie, notamment pour la production d’eau potable ou le traitement des eaux usées. Leur principal inconvénient réside dans l’encrassement de la membrane, ce qui entraine une dégradation des performances du procédé. Une stratégie mise en œuvre pour résoudre ce problème consiste à alterner entre deux phases : une phase de production dans laquelle la filtration s’effectue et la membrane s’encrasse, et une phase de régénération (ou rétro-lavage) au cours de laquelle le flux est inversé afin de décolmater la membrane. Le contrôle optimal de la fréquence entre ces deux mode est essentiel, que ce soit pour maximiser la production (objectif économique) ou pour minimiser la consommation énergétique (objectif écologique).   \
+abstract: 'Les systèmes de filtration membranaire sont largement utilisés dans l’industrie, notamment pour la production d’eau potable ou le traitement des eaux usées. Leur principal inconvénient réside dans l’encrassement de la membrane, ce qui entraine une dégradation des performances du procédé. Une stratégie mise en œuvre pour résoudre ce problème consiste à alterner entre deux phases : une phase de production dans laquelle la filtration s’effectue et la membrane s’encrasse, et une phase de régénération (ou rétro-lavage) au cours de laquelle le flux est inversé afin de décolmater la membrane. Le contrôle optimal de la fréquence entre ces deux mode est essentiel, que ce soit pour maximiser la production (objectif économique) ou pour minimiser la consommation énergétique (objectif écologique). \
 
 \
 
-Le principe du maximum de Pontryagin fournit des conditions nécessaire d'optimalités pour ce type de problème de commande optimale. En combinant cet outils avec le théorème de Green, il est possible de caractériser l'ensemble des structures de solution possible et d'en déduire la synthèse optimale pour ces systèmes de production-régénération. \
+Le principe du maximum de Pontryagin fournit des conditions nécessaire d’optimalités pour ce type de problème de commande optimale. En combinant cet outils avec le théorème de Green, il est possible de caractériser l’ensemble des structures de solution possible et d’en déduire la synthèse optimale pour ces systèmes de production-régénération. \
 
 \
 
