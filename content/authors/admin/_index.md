@@ -78,10 +78,13 @@ skills:
         percent: 70
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://hugoblox.com/docs/reference/icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: github
+    icon_pack: brands
+    link: https://github.com/remydutto
   - icon: envelope
     icon_pack: fas
     link: 'mailto:remy.dutto@orange.fr'
