@@ -63,8 +63,6 @@ skills:
       - name: Julia
         description: ''
         percent: 70
-        icon: Julia
-        icon_pack: devicon
       - name: GitHub
         description: ''
         percent: 60
@@ -82,7 +80,8 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: brands/github
+  - icon: github
+    icon_pack: fab
     link: https://github.com/remydutto
   - icon: envelope
     icon_pack: fas
