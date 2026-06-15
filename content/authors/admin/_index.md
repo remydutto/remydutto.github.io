@@ -82,8 +82,7 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: github
-    icon_pack: brands
+  - icon: brands/github
     link: https://github.com/remydutto
   - icon: envelope
     icon_pack: fas
