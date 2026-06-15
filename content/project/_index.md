@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Projects
 cms_exclude: true
 
 # View.
