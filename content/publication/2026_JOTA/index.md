@@ -15,7 +15,7 @@ publication_types: ["article-journal"]
 abstract:  This paper studies an optimal control framework for a class of production-regeneration systems, which have to alternate between productive and regenerative phases, such as membrane filtration. These systems are modeled as control-affine systems of triangular forms with a one-dimentional internal state. Pontryagin's Maximum Principle and Green's theorem provide conditions on optimal trajectories, distinguishing bang and singular arcs, where singular arcs are distinguished between turnpike or anti-turnpike. Structural results show that optimal solutions admit at most two switching times and the exhaustive list of admissible structures is provided. The paper further introduces a constructive method to provide optimal feedback synthesis by determining switching and dispersal loci through differential continuation. Numerical applications to membrane filtration processes illustrate the approach for energy minimization and volume maximization cases. An example with non-connected singular locus illustrates the method's generality.
 tags:
 - Production-regeneration
-- Membrane filtration
+- Membrane filtration system
 - Optimal control
 - Pontryagin maximum principle
 - Singular arcs
