@@ -32,7 +32,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title : Postdoc
-          company : IRAE Occitanie-Montpellier
+          company : INRAE Occitanie-Montpellier
           company_url: https://www.inrae.fr/centres/occitanie-montpellier
           company_logo: INRAE
           location: Montpellier, France
@@ -52,7 +52,7 @@ sections:
           date_start: '2021-10-10'
           date_end: '2024-10-10'
           description: |2-
-              Realted topics:
+              Related topics:
 
               * Optimal Control
               * Neural Network
@@ -66,7 +66,7 @@ sections:
           date_start: '2020-10-05'
           date_end: '2021-09-30'
           description: |2-
-              Realted topics:
+              Related topics:
 
               * Reinforcement Learning
               * Neural Network 

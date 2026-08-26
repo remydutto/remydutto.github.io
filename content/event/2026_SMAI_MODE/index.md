@@ -1,7 +1,7 @@
 ---
 title: Journées SMAI MODE 2026
 
-event: Jounrées SMAI MODE 2026
+event: Journées SMAI MODE 2026
 event_url: https://mode2026.sciencesconf.org/
 
 location: Nice, France
