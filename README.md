@@ -1,19 +1,19 @@
 # remydutto.github.io
 
-Code source de mon site personnel : **[remydutto.github.io](https://remydutto.github.io/)**
+Source code of my personal website: **[remydutto.github.io](https://remydutto.github.io/)**
 
-Je suis Rémy Dutto, postdoc à l'INRAE Occitanie-Montpellier (projet WOc-WoD), où je travaille sur le contrôle optimal des systèmes de filtration membranaire avec Jérôme Harmand et Alain Rapaport. Avant ça, j'ai fait une thèse CIFRE avec Vitesco Technologies, l'IRIT et l'IMT sur des méthodes numériques de contrôle optimal appliquées à la répartition de couple des véhicules hybrides.
+I'm Rémy Dutto, a postdoc at INRAE Occitanie-Montpellier (WOc-WoD project), working on optimal control of membrane filtration systems with Jérôme Harmand and Alain Rapaport. Before that, I did a CIFRE PhD with Vitesco Technologies, IRIT and IMT on numerical optimal control methods applied to torque split for hybrid electric vehicles.
 
-Le site rassemble :
-- mes **publications** (articles, conférences, brevet, thèse) ;
-- mes **projets**, notamment l'écosystème [Filtration.jl](https://github.com/remydutto/Filtration.jl) pour la synthèse optimale de systèmes de filtration membranaire, [GeometricPreconditioner.jl](https://github.com/remydutto/GeometricPreconditioner.jl), et [Ensemble](https://github.com/remydutto/ensemble-app), une appli de suivi de dépenses pour couples ;
-- mes **interventions** (séminaires, conférences) ;
-- mon **CV**.
+The site brings together:
+- my **publications** (articles, conference papers, patent, thesis);
+- my **projects**, in particular the [Filtration.jl](https://github.com/remydutto/Filtration.jl) ecosystem for optimal synthesis of membrane filtration systems, [GeometricPreconditioner.jl](https://github.com/remydutto/GeometricPreconditioner.jl), and [Ensemble](https://github.com/remydutto/ensemble-app), an expense-tracking app for couples;
+- my **talks** (seminars, conferences);
+- my **CV**.
 
-## Stack technique
+## Tech stack
 
-Le site est généré avec [Hugo](https://gohugo.io/) et déployé automatiquement sur GitHub Pages (voir `.github/workflows/`). Le contenu est en Markdown dans `content/`, la configuration dans `config/_default/`.
+The site is generated with [Hugo](https://gohugo.io/) and automatically deployed to GitHub Pages (see `.github/workflows/`). Content is in Markdown under `content/`, configuration under `config/_default/`.
 
-## Crédits
+## Credits
 
-Ce site est construit à partir du [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv) (Hugo Blox Builder).
+This site is built on the [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv) (Hugo Blox Builder).
