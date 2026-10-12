@@ -107,6 +107,9 @@ sections:
       filters:
         folders:
           - project
+      # Order projects by their `weight` (lowest first) instead of by date.
+      sort_by: Weight
+      sort_ascending: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       # default_button_index: 0
       # Filter toolbar (optional).
@@ -132,4 +135,7 @@ sections:
       title: Main Topics
     design:
       columns: '2'
+      # Font sizes (rem) of the least and most used tags.
+      font_size_min: 0.8
+      font_size_max: 1.4
 ---

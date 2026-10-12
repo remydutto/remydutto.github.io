@@ -31,7 +31,7 @@ tags:
 - Geometric preconditioner
 - Indirect shooting
 - Pontryagin maximum principle
-- Neural Network
+- Neural network
 - Hybrid electric vehicle
 
 url_pdf: uploads/2024_PhD.pdf

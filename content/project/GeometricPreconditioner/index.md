@@ -6,6 +6,8 @@ tags:
   - Automatic differentiation
   - Indirect shooting
 date: "2025-01-01"
+# Display order in the Projects lists (lowest first).
+weight: 40
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://remydutto.github.io/GeometricPreconditioner.jl/dev/2D-example.html

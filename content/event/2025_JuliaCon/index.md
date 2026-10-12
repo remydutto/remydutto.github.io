@@ -30,7 +30,7 @@ authors:
 
 tags:
 - Pontryagin maximum principle
-- Optimal synthesis
+- Feedback synthesis
 - Membrane filtration system
 
 # Is this a featured talk? (true/false)

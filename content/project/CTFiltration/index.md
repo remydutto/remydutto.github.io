@@ -6,6 +6,8 @@ tags:
   - Feedback synthesis
   - Turnpike property
 date: "2025-06-01"
+# Display order in the Projects lists (lowest first).
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://remydutto.github.io/CTMembraneFiltration.jl/stable/index.html

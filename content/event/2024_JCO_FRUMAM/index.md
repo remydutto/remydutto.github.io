@@ -28,7 +28,7 @@ tags:
 - Optimal control 
 - Indirect shooting
 - Geometric preconditioner
-- Bilevel Optimal Control
+- Bilevel optimal control
 
 # Is this a featured talk? (true/false)
 featured: false

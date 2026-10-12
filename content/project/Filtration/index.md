@@ -5,6 +5,8 @@ tags:
   - Membrane filtration system
   - Feedback synthesis
 date: "2025-06-01"
+# Display order in the Projects lists (lowest first).
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://remydutto.github.io/doc-Filtration.jl/dev/index.html

@@ -6,6 +6,8 @@ tags:
   - Feedback synthesis
   - Closed-loop simulation
 date: "2026-01-01"
+# Display order in the Projects lists (lowest first).
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://remydutto.github.io/doc-Filtration.jl/simulation/index.html

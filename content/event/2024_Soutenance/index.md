@@ -38,7 +38,7 @@ tags:
 - Geometric preconditioner
 - Indirect shooting
 - Pontryagin maximum principle
-- Neural Network
+- Neural network
 - Hybrid electric vehicle
 
 # Is this a featured talk? (true/false)
