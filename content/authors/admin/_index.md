@@ -57,26 +57,40 @@ skills:
       - name: Claude
         description: ''
         percent: 100
+        icon: claude
+        icon_pack: custom
       - name: GitHub
         description: ''
         percent: 100
+        icon: github
+        icon_pack: fab
       - name: Julia
         description: ''
         percent: 100
+        icon: julia
+        icon_pack: custom
       - name: Python
         description: ''
         percent: 100
+        icon: python
+        icon_pack: custom
       - name: Matlab
         description: ''
         percent: 100
+        icon: matlab
+        icon_pack: custom
   - name: Languages
     items:
       - name: French (native)
         description: ''
         percent: 100
+        icon: flag-fr
+        icon_pack: custom
       - name: English (B2-C1)
         description: ''
         percent: 100
+        icon: flag-gb
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://hugoblox.com/docs/reference/icons
