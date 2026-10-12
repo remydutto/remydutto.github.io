@@ -1,5 +1,7 @@
 ---
 title: Projects
+# Page description for search engines and link previews.
+summary: Projects by Rémy Dutto, including the Filtration.jl ecosystem for membrane filtration systems and GeometricPreconditioner.jl.
 cms_exclude: true
 
 # View.

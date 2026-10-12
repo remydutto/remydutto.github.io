@@ -1,5 +1,7 @@
 ---
 title: Talks
+# Page description for search engines and link previews.
+summary: Talks and seminars given by Rémy Dutto on optimal control, indirect shooting methods and membrane filtration systems, with slides.
 cms_exclude: true
 
 # View.
