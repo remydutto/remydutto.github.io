@@ -49,6 +49,35 @@ education:
       institution: IAE Nice Graduate School of Management
       year: 2021
 
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: Claude
+        description: ''
+        percent: 100
+      - name: GitHub
+        description: ''
+        percent: 100
+      - name: Julia
+        description: ''
+        percent: 100
+      - name: Python
+        description: ''
+        percent: 100
+      - name: Matlab
+        description: ''
+        percent: 100
+  - name: Languages
+    items:
+      - name: French (native)
+        description: ''
+        percent: 100
+      - name: English (B2-C1)
+        description: ''
+        percent: 100
+
 # Social/Academic Networking
 # For available icons, see: https://hugoblox.com/docs/reference/icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
