@@ -11,12 +11,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: markdown
     content:
       title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      text: |-
+        ### Technical
+
+        - Claude
+        - GitHub
+        - Julia
+        - Python
+        - Matlab
+
+        ### Languages
+
+        - French (native)
+        - English (B2-C1)
     design:
       columns: '1'
   - block: experience

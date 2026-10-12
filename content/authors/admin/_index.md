@@ -45,35 +45,9 @@ education:
     - course: Engineer's degree in applied mathematics and modelization
       institution: Polytech Nice Sophia
       year: 2021
-    - course: Master's degree in management and buisness administration 
+    - course: Master's degree in management and business administration 
       institution: IAE Nice Graduate School of Management
       year: 2021
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-      - name: Matlab
-        description: ''
-        percent: 80
-      - name: Julia
-        description: ''
-        percent: 70
-      - name: GitHub
-        description: ''
-        percent: 60
-  - name: Languages
-    items: 
-      - name: French (native)
-        description: ''
-        percent: 90
-      - name: English (B2-C1)
-        description: ''
-        percent: 70
 
 # Social/Academic Networking
 # For available icons, see: https://hugoblox.com/docs/reference/icons
